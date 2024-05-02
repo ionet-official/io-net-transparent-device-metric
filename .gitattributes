@@ -1,1 +1,1 @@
-log_20240501_200543/hashcheck_logs-with-web-gpu-anon.csv filter=lfs diff=lfs merge=lfs -text
+log_*/*.csv filter=lfs diff=lfs merge=lfs -text
